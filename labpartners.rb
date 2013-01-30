@@ -8,7 +8,7 @@ response = menu
 while response != 'q'
   case response
   when 'g'
-    groupsize
+    group_divide
   end
 
   response = menu
